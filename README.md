@@ -44,3 +44,30 @@ To pass the course the student should, during the project work, show why and how
 - 88 - 93p
 - 94 - 100p Excellent
 
+## Books 
+
+[The Alignment Problem](https://brianchristian.org/the-alignment-problem/)   
+Brian Christian      
+2020      
+ISBN-13: 978-0393635829
+
+[Machine Learning, revised](https://mitpress.mit.edu/books/machine-learning-revised-and-updated-edition)   
+Ethem Alpaydin     
+2021       
+ISBN-13: 978-0262542524
+
+[Data Science from Scratch](https://github.com/joelgrus/data-science-from-scratch)   
+Joel Grus         
+2019 (2nd edition)            
+ISBN-13: 978-1491901427
+
+[Recommendation Engines](https://mitpress.mit.edu/books/recommendation-engines)  
+Michael Schrage    
+2020        
+ISBN: 978-0262539074
+
+[Recommendation Systems with Python](https://github.com/PacktPublishing/Hands-On-Recommendation-Systems-with-Python)  
+Rounak Banik    
+2018        
+ISBN: 978-1788993753
+
