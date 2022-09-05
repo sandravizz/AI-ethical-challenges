@@ -57,7 +57,7 @@ The first part of the course is about the challenges and limitations of AI. No p
 - Part 1 - 06/09/22
 - Part 2 - 09/09/22
 
-### Algorithmic Bias
+### [Algorithmic Bias](https://observablehq.com/@sandraviz/algorithmic-biases?collection=@sandraviz/ai-ethics)
 
 *"The road to a civilized world goes through the dark woods of biases."*.    
 
@@ -69,7 +69,7 @@ In this second part of the course we discussed the different types of algorithmi
 - Part 2 - 16/09/22
 - Assignment: Decision tree with ethical challenges (python)
 
-### Recommender Systems 
+### [Recommender Systems](https://observablehq.com/@sandraviz/recommender-systems?collection=@sandraviz/ai-ethics)
 
 *"Bluntly, technology is taken over advice."*.  
 
