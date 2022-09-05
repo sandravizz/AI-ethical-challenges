@@ -44,7 +44,56 @@ To pass the course the student should, during the project work, show why and how
 - 88 - 93p
 - 94 - 100p Excellent
 
-## Books 
+## Syllabus
+
+### Limitations of AI 
+
+*"Premature optimization is the root of all evil."* 
+
+Products and services that rely on machine learning, computer programs that constantly absorb new data and adapt their decisions in response don’t always make ethical or accurate choices.
+
+The first part of the course is about the challenges and limitations of AI. No prediction will ever be 100% correct nor certain, which is acceptable in some case and unacceptable in others. How to be aware of these "errors" and how to address them together with the discussion about their application is the content of the two first lectures.
+
+- Part 1 - 06/09/22
+- Part 2 - 09/09/22
+
+### Algorithmic Bias
+
+*"The road to a civilized world goes through the dark woods of biases."*.    
+
+Algorithmic bias is difficult to define. It is often understood as a systematic and repeatable error in computational systems, that is responsible for unfair, wrongful results of data processing. 
+
+In this second part of the course we discussed the different types of algorithmic biases and their consequences especially regarding sexism and racism. 
+
+- Part 1 - 13/09/22
+- Part 2 - 16/09/22
+- Assignment: Decision tree with ethical challenges (python)
+
+### Recommender Systems 
+
+*"Bluntly, technology is taken over advice."*.  
+
+Recommender systems influence, the videos we watch, the books we read, the music we hear, the games we play, the investments we make, the friends we meet, the food we eat, the news we monitor, the products we buy, the software we code, the photos we share, the events we attend, the people we date, the jobs we apply for, in the end they practically and actually impact increasingly the life we live.
+
+As humans are more and more follow algorithmic recommendation systems the impact also possible negative one needs discussion, which is happening in the third part of the course 
+
+- Part 1 - 20/09/22
+- Part 2 - 23/09/22
+- Assignment: Simple recommender system (python)
+- Part 3 - 27/09/22
+- Part 4 - 30/09/22
+
+### Final project 
+
+*Build, explain and evaluate RS*
+
+The idea is to deepen the student's knowledge about RS and their applications in real life using Spotify as a use case. Moreover they are asked to evaluate ethical challenges.
+
+## Bibliografia 
+
+All content in form of research papers, books, wikipedia definitions and web-links used in this module is linked below. 
+
+### Books 
 
 [The Alignment Problem](https://brianchristian.org/the-alignment-problem/)   
 Brian Christian      
