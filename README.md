@@ -196,7 +196,7 @@ ISBN: 978-1788993753
 
 ### Wikipedia 
 [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning)   
-[Bias–variance_tradeoff](https://en.wikipedia.org/wiki/Bias%E2%80%93variance_tradeoff)   
+[Bias–variance tradeoff](https://en.wikipedia.org/wiki/Bias%E2%80%93variance_tradeoff)   
 [Overfitting](https://en.wikipedia.org/wiki/Overfitting)   
 [Algorithmic bias](https://en.wikipedia.org/wiki/Algorithmic_bias#cite_note-Seaver-11)   
 [Recommender system ](https://en.wikipedia.org/wiki/Recommender_system)   
@@ -214,7 +214,6 @@ ISBN: 978-1788993753
 [How Algorithms Can Fight Bias Instead of Entrench It](https://behavioralscientist.org/how-algorithms-can-fight-bias-instead-of-entrench-it/).  
 [Anti-racism, algorithmic bias, and policing: a brief introduction](https://towardsdatascience.com/anti-racism-algorithmic-bias-and-policing-a-brief-introduction-bafa0dc75ac6)      
 [Why algorithms can be racist and sexist](https://www.vox.com/recode/2020/2/18/21121286/algorithms-bias-discrimination-facial-recognition-transparency)   [Algorithmic Solutions to Algorithmic Bias: A Technical Guide](https://towardsdatascience.com/algorithmic-solutions-to-algorithmic-bias-aef59eaf6565)  
-[Z-inspection](http://z-inspection.org/)    
 [AI experts say research into algorithms that claim to predict criminality must end](https://www.theverge.com/2020/6/24/21301465/ai-machine-learning-racist-crime-prediction-coalition-critical-technology-springer-study)  
 [Human - cognitive biases](https://cassandraxia.com/cogbiases/)  
 [The Human Bias-Accuracy Trade-off](https://towardsdatascience.com/the-human-bias-accuracy-trade-off-ad95e3c612a9)     
