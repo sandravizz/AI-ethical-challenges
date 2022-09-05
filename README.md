@@ -93,6 +93,80 @@ The idea is to deepen the student's knowledge about RS and their applications in
 
 All content in form of research papers, books, wikipedia definitions and web-links used in this module is linked below. 
 
+### Research Papers
+
+[When Machine Learning Goes Off the Rails](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3881422).   
+Boris Babic.  
+Independent  
+I. Glenn Cohen.   
+Harvard Law School   
+2021
+
+[Three Machine Learning Solutions to the Bias-Variance Dilemma](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3588594).   
+Marcos López de Prado.    
+Cornell University.  
+Operations Research & Industrial Engineering.   
+2020
+
+[Artificial Intelligence Based Suicide Prediction](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3324874).    
+Mason Marks   
+Harvard Law School; Yale Law School; University of New Hampshire Franklin Pierce School of Law; Leiden Law School, Center for Law and Digital Technologies     
+2019 
+
+[Responsibility & Machine Learning: Part of a Process](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2860048).   
+Jatinder Singh    
+University of Cambridge    
+2016  
+
+[Social Implication of Algorithmic Bias](https://www.researchgate.net/publication/349120634_SOCIAL_IMPLICATIONS_OF_ALGORITHMIC_BIAS).   
+Łukasz Iwasiński    
+University of Warsaw    
+2020
+
+[Algorithmic Bias in Autonomous Systems](https://www.researchgate.net/publication/318830422_Algorithmic_Bias_in_Autonomous_Systems).   
+David Danks.   
+Alex John London.  
+Carnegie Mellon University.    
+2017
+
+[Slave to the algorithm? Why a ‘right to an explanation’ is probably not the remedy you are looking for](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2972855).   
+Lilian Edwards    
+University of Newcastle - Law School  
+Michael Veale    
+University College London, Faculty of Laws; The Alan Turing Institute   
+2017
+
+[Unfair Machine Learning Algorithms](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3408275).    
+Runshan Fu   
+Carnegie Mellon University.   
+Manmohan Aseri   
+Katz Graduate School of Business at University of Pittsburgh.   
+Param Vir Singh, Kannan Srinivasan    
+Carnegie Mellon University - David A. Tepper School of Business     
+2020 
+
+[Against the Dehumanisation of Decision-Making](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3188080).    
+Guido Noto La Diega    
+University of Stirling.    
+2018 
+
+[Recommendation Systems: The Different Filtering Techniques, Challenges and Review Ways to Measure the Recommender System](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3826124).   
+Mahesh TR, Vivek V       
+FET - JAIN - Deemed-to-Be University              
+2019
+
+[Streaming Platform and Strategic Recommendation Bias](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3338744).   
+Marc Bourreau.        
+Telecom ParisTech.   
+Germain Gaudin.      
+University of Freiburg - College of Economics and Behavioral Sciences.     
+2018
+
+[Recommender Systems and their ethical challenges](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3378581).   
+Silvia Milano, Mariarosaria Taddeo, Luciano Floridi       
+University of Oxford - Oxford Internet Institute                
+2019
+
 ### Books 
 
 [The Alignment Problem](https://brianchristian.org/the-alignment-problem/)   
