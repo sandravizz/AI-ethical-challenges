@@ -83,7 +83,7 @@ As humans are more and more follow algorithmic recommendation systems the impact
 - Part 3 - 27/09/22
 - Part 4 - 30/09/22
 
-### Final project 
+### [Final project](https://observablehq.com/@sandraviz/final-project?collection=@sandraviz/ai-ethics)
 
 *Build, explain and evaluate RS*
 
