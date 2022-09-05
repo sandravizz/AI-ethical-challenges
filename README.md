@@ -5,7 +5,7 @@
 - Contact: [Via Email](mailto:sandra.becker1982@gmail.com)
 - Term: Fall 2022
 - Lectures: Tuesday & Friday 13 - 16 pm
-- [Material](https://observablehq.com/collection/@sandraviz/ai-ethics)
+- [Course material](https://observablehq.com/collection/@sandraviz/ai-ethics)
 
 "The first generation of graduate students is matriculating who are focused explicitly on the ethics and safety of machine learning. The alignment problem's first responders have arrived at the scene."
 Brian Christian
