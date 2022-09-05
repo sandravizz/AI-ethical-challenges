@@ -205,7 +205,6 @@ ISBN: 978-1788993753
 
 [AI Is All Around You](https://okai.brown.edu/chapter1.html)  
 [Facebook apology as AI labels black men 'primates'](https://www.bbc.com/news/technology-58462511)  
-[AI Safety Needs Social Scientists](https://distill.pub/2019/safety-needs-social-scientists/)  
 [A visual introduction to machine learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)   
 [Model Tuning and the Bias-Variance Tradeoff](http://www.r2d3.us/visual-intro-to-machine-learning-part-2/)   
 [Machine bias](https://www.propublica.org/series/machine-bias)      
