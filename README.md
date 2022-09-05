@@ -46,7 +46,7 @@ To pass the course the student should, during the project work, show why and how
 
 ## Syllabus
 
-### Limitations of AI 
+### [Limitations of AI](https://observablehq.com/@sandraviz/limitations-of-ai?collection=@sandraviz/ai-ethics)
 
 *"Premature optimization is the root of all evil."* 
 
@@ -210,20 +210,19 @@ ISBN: 978-1788993753
 [Model Tuning and the Bias-Variance Tradeoff](http://www.r2d3.us/visual-intro-to-machine-learning-part-2/)   
 [Machine bias](https://www.propublica.org/series/machine-bias)      
 [Representation and Bias](https://towardsdatascience.com/representation-big-data-and-algorithmic-bias-in-social-data-science-c285350ccc2c)   
-
 [Algorithmic Bias](https://towardsdatascience.com/algorithmic-bias-fff4d8c31290)   
 [How Algorithms Can Fight Bias Instead of Entrench It](https://behavioralscientist.org/how-algorithms-can-fight-bias-instead-of-entrench-it/).  
 [Anti-racism, algorithmic bias, and policing: a brief introduction](https://towardsdatascience.com/anti-racism-algorithmic-bias-and-policing-a-brief-introduction-bafa0dc75ac6)      
-[Why algorithms can be racist and sexist](https://www.vox.com/recode/2020/2/18/21121286/algorithms-bias-discrimination-facial-recognition-transparency)         
-[Algorithmic Solutions to Algorithmic Bias: A Technical Guide](https://towardsdatascience.com/algorithmic-solutions-to-algorithmic-bias-aef59eaf6565)  
+[Why algorithms can be racist and sexist](https://www.vox.com/recode/2020/2/18/21121286/algorithms-bias-discrimination-facial-recognition-transparency)   [Algorithmic Solutions to Algorithmic Bias: A Technical Guide](https://towardsdatascience.com/algorithmic-solutions-to-algorithmic-bias-aef59eaf6565)  
 [Z-inspection](http://z-inspection.org/)    
 [AI experts say research into algorithms that claim to predict criminality must end](https://www.theverge.com/2020/6/24/21301465/ai-machine-learning-racist-crime-prediction-coalition-critical-technology-springer-study)  
 [Human - cognitive biases](https://cassandraxia.com/cogbiases/)  
 [The Human Bias-Accuracy Trade-off](https://towardsdatascience.com/the-human-bias-accuracy-trade-off-ad95e3c612a9)     
 [Fairness-in-algorithmic-decision-making](https://www.brookings.edu/research/fairness-in-algorithmic-decision-making/)   
-
 [Collaborative Filtering based Recommendation Systems exemplified..](https://towardsdatascience.com/collaborative-filtering-based-recommendation-systems-exemplified-ecbffe1c20b1) 
 [Recommender system in-python part-1](https://towardsdatascience.com/recommender-system-in-python-part-1-preparation-and-analysis-d6bb7939091e)  
 [Conference on Recommender Systems](https://recsys.acm.org/recsys21/accepted-contributions/)  
 [Hybrid technique for recommender system](https://dewaleofficial.medium.com/hybrid-technique-for-recommender-system-86cfb748f585)
+
+
 
