@@ -66,7 +66,7 @@ Michael Schrage
 2020        
 ISBN: 978-0262539074
 
-[Recommendation Systems with Python](https://github.com/PacktPublishing/Hands-On-Recommendation-Systems-with-Python)  
+[Hands-On Recommendation Systems with Pythonn](https://github.com/PacktPublishing/Hands-On-Recommendation-Systems-with-Python)  
 Rounak Banik    
 2018        
 ISBN: 978-1788993753
