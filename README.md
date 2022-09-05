@@ -194,3 +194,10 @@ Rounak Banik
 2018        
 ISBN: 978-1788993753
 
+### Wikipedia 
+[Machine Learning](https://en.wikipedia.org/wiki/Machine_learning)   
+[Bias–variance_tradeoff](https://en.wikipedia.org/wiki/Bias%E2%80%93variance_tradeoff)   
+[Overfitting](https://en.wikipedia.org/wiki/Overfitting)   
+[Algorithmic bias](https://en.wikipedia.org/wiki/Algorithmic_bias#cite_note-Seaver-11)   
+[Recommender system ](https://en.wikipedia.org/wiki/Recommender_system)   
+
