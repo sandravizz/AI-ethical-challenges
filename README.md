@@ -2,7 +2,7 @@
 
 - Arcada - University of Applied Sciences in Helsinki (Finland)
 - Professor: Sandra Becker
-- Contact: Via Email
+- Contact: [Via Email](mailto:sandra.becker1982@gmail.com)
 - Term: Fall 2022
 - Lectures: Tuesday & Friday 13 - 16 pm
 - [Notebook collection](https://observablehq.com/collection/@sandraviz/ai-ethics)
