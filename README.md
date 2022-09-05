@@ -27,3 +27,21 @@ Study activities
 
 All lectures will be 3 hours with one break of 15 min.
 
+## Assessment
+
+### First assignment: 15p
+Decision tree example results using normal and biased dataset (python)
+
+### Second assignment: 15p
+Recommender system example (python)
+
+### Final Project: 70p
+To pass the course the student should, during the project work, show why and how automated decision making is designed and which potential issues and challenges may come with it. The use case will be a recommender system.
+
+## Grading
+- 70 - 75p Pass
+- 76 - 81p
+- 82 - 87p
+- 88 - 93p
+- 94 - 100p Excellent
+
