@@ -1,10 +1,10 @@
 # Decision-support-systems-verification
 
-Arcada - University of Applied Sciences in Helsinki (Finland)
-Professor: Sandra Becker
-Contact: Via Email
-Term: Fall 2022
-Lectures: Tuesday & Friday 13 - 16 pm
+- Arcada - University of Applied Sciences in Helsinki (Finland)
+- Professor: Sandra Becker
+- Contact: Via Email
+- Term: Fall 2022
+- Lectures: Tuesday & Friday 13 - 16 pm
 
 "The first generation of graduate students is matriculating who are focused explicitly on the ethics and safety of machine learning. The alignment problem's first responders have arrived at the scene."
 Brian Christian
