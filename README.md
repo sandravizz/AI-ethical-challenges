@@ -38,11 +38,11 @@ Recommender system example (python)
 To pass the course the student should, during the project work, show why and how automated decision making is designed and which potential issues and challenges may come with it. The use case will be a recommender system.
 
 ## Grading
-- 70 - 75p Pass
-- 76 - 81p
-- 82 - 87p
-- 88 - 93p
-- 94 - 100p Excellent
+- 50 - 60 = 1 (pass)
+- 61 - 70 = 2
+- 71 - 80 = 3
+- 81 - 90 = 4
+- 91 - 100 = 5 
 
 ## Syllabus
 
