@@ -7,13 +7,13 @@
 - Lectures: Tuesday & Friday 13 - 16 pm
 - [Course material](https://observablehq.com/collection/@sandraviz/ai-ethics)
 
-"The first generation of graduate students is matriculating who are focused explicitly on the ethics and safety of machine learning. The alignment problem's first responders have arrived at the scene."
-Brian Christian
-
-## Module overview
 Arcada is a multi-professional University of Applied Sciences in Helsinki (Finland) with the philosophy to work across disciplines and advance culture and knowledge. The curriculum of each degree programme at Arcada is composed of modules. The modules define the competencies that you need to attain in order to graduate.
 
 ## Competency aims
+
+"The first generation of graduate students is matriculating who are focused explicitly on the ethics and safety of machine learning. The alignment problem's first responders have arrived at the scene."
+Brian Christian
+
 The aim of this course is to provide the students with knowledge about thoughtful, responsible, and ethical uses of machine learning practice, which is a fundamental precondition to trustworthy development of AI. Recommendation systems, which simultaneously shape and predict the future in nearly all parts of human life, will be the main use case during the course.
 
 ## Learning outcomes
