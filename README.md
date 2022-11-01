@@ -1,4 +1,4 @@
-# Decision-support-systems-verification
+# Decision support systems verification
 
 - Arcada - University of Applied Sciences in Helsinki (Finland)
 - Professor: Sandra Becker
