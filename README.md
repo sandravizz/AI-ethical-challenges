@@ -5,7 +5,7 @@
 - Contact: [Via Email](mailto:sandra.becker1982@gmail.com)
 - Term: Fall 2022
 - Lectures: Tuesday & Friday 13 - 16 pm
-- [Course material](https://observablehq.com/collection/@sandraviz/ai-ethics)
+- [Course material](https://observablehq.com/collection/@sandraviz/ai)
 
 Arcada is a multi-professional University of Applied Sciences in Helsinki (Finland) with the philosophy to work across disciplines and advance culture and knowledge. The curriculum of each degree programme at Arcada is composed of modules. The modules define the competencies that you need to attain in order to graduate.
 
