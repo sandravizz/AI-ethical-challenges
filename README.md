@@ -1,4 +1,4 @@
-# Decision support systems verification
+# AI and ethical challenges 
 
 - Arcada - University of Applied Sciences in Helsinki (Finland)
 - Professor: Sandra Becker
